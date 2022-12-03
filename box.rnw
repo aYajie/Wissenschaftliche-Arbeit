@@ -1,0 +1,9 @@
+\documentclass{article}
+
+\begin{document}
+<<>>=
+plot(rnorm(100),type='l')
+
+@
+
+\end{document}
